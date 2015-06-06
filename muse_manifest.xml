@@ -1,0 +1,57 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433612038991">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="movies.css" crc="285267320" ref="movies"/>
+    <file name="index.css" crc="4156259130" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="sd.png" crc="4286641792" mt="1433436721000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>movies:tablet>index:movies:index"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>movies:tablet>index:movies:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>movies:tablet>index:movies:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>movies:movies:index"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="phone>movies:movies:index"/>
+    <file name="museredirect.js" crc="4117159434" ref="tablet>index:movies:index"/>
+    <file name="webpro.js" crc="220831917" ref="movies:index"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="movies:index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="movies:index"/>
+    <file name="touchswipe.js" crc="325405309" ref="movies:index"/>
+  </folder>
+  <folder name="images">
+    <file name="dark-forest-desktop-wallpaper-desktopia-dark-forest-desktop-wallpaper-wallpapers-hd-android-for-mobile-free-download-1920x1080-background-iphone-5.jpg" crc="4222040858" ref="phone>index:index"/>
+    <file name="fullsizerendershadow.jpg" crc="3876807096" ref="phone>index:index"/>
+    <file name="righteousshivamdua52.png" crc="232358222" ref="phone>index:index"/>
+    <file name="u698-6.png" crc="4043075280" ref="phone>index"/>
+    <file name="play-music-iconr-.jpg" crc="4027581677" ref="phone>index:index"/>
+    <file name="film (1).jpg" crc="4162553344" ref="phone>index"/>
+    <file name="arrow_left-512.png" crc="348176485" ref="phone>movies:movies"/>
+    <file name="bg6.jpg" crc="3786318446" ref="phone>movies"/>
+    <file name="bg6215x305.jpg" crc="105083108" ref="movies"/>
+    <file name="no324-my-mr-peabody-minimal-movie-poster-chungkong-art.jpg" crc="4032038094" ref="movies"/>
+    <file name="frozen_minimalist_poster_by_coloredraininlives-d73lckb.jpg" crc="4151750785" ref="movies"/>
+    <file name="260a09b1cf97fdc6a6db2bb65782ae8c-crop-u130.jpg" crc="226039550" ref="movies"/>
+    <file name="big-hero-6-movie-poster3.jpg" crc="4057484949" ref="movies"/>
+    <file name="u585-6.png" crc="4043075280" ref="index"/>
+    <file name="film s(1).jpg" crc="4222536845" ref="index"/>
+    <file name="illustration_2x.jpg" crc="3976651603" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3817187002" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3964715917" mt="1433407951436" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="movies.css" crc="346511066" ref="phone>movies"/>
+      <file name="index.css" crc="121656719" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="26371205" mt="1433520258088" redirect="true"/>
+    <file name="movies.html" crc="3853317090" mt="1433410100734" redirect="true"/>
+  </folder>
+  <file name="movies.html" crc="497575499" mt="1433520251857" redirect="true"/>
+  <file name="index.html" crc="4256713151" mt="1433568230963" redirect="true"/>
+</manifest>

@@ -1,0 +1,304 @@
+.version.index /* version checker */
+{
+	color: #000007;
+	background-color: #40558F;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #F4F4F4;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 1264px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F4F4F4;
+}
+
+#page_position_content,#pu692
+{
+	width: 0.01px;
+}
+
+#u692
+{
+	z-index: 2;
+	min-height: 310px;
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 310px;
+	background: #FFFFFF url("../../images/dark-forest-desktop-wallpaper-desktopia-dark-forest-desktop-wallpaper-wallpapers-hd-android-for-mobile-free-download-1920x1080-background-iphone-5.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u973
+{
+	z-index: 40;
+	width: 50px;
+	min-height: 25px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 25px;
+}
+
+#u693
+{
+	z-index: 3;
+	width: 129px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 165px;
+	left: 126px;
+}
+
+#u694
+{
+	z-index: 4;
+	width: 129px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 0px 40px rgba(0,0,0,0.2);
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u692-bw
+{
+	z-index: 2;
+	min-height: 310px;
+}
+
+#u696
+{
+	z-index: 6;
+	width: 280px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 310px;
+	left: 50px;
+}
+
+#u698-6
+{
+	z-index: 8;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 369px;
+	left: 44px;
+}
+
+#u873
+{
+	z-index: 39;
+	width: 210px;
+	min-height: 98px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 313px;
+	left: 78px;
+}
+
+#pu714
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+#u714
+{
+	z-index: 15;
+	width: 340px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u705
+{
+	z-index: 16;
+	width: 124px;
+	-pie-box-shadow: none;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u713-6
+{
+	z-index: 18;
+	width: 216px;
+	min-height: 124px;
+	-pie-box-shadow: 1px 1px 2px #7F7F7F;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	text-align: center;
+	font-family: righteous, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 124px;
+}
+
+#u713-4
+{
+	font-size: 15px;
+	line-height: 21px;
+	color: #616161;
+}
+
+#u725-6
+{
+	z-index: 24;
+	width: 216px;
+	min-height: 124px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	text-align: center;
+	font-family: righteous, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 124px;
+}
+
+#u727
+{
+	z-index: 30;
+	width: 340px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 20px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u720
+{
+	z-index: 31;
+	width: 124px;
+	-pie-box-shadow: none;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u726-6
+{
+	z-index: 33;
+	width: 216px;
+	min-height: 124px;
+	-pie-box-shadow: 1px 1px 2px #7F7F7F;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	text-align: center;
+	font-family: righteous, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 124px;
+}
+
+#u713-2,#u725-2,#u726-2
+{
+	font-size: 50px;
+	line-height: 90px;
+	color: #434343;
+}
+
+#u725-4,#u726-4
+{
+	font-size: 15px;
+	line-height: 8px;
+	color: #616161;
+}
+
+#u704
+{
+	z-index: 14;
+	height: 644px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F4F4F4;
+}
+
+#u704-bw
+{
+	z-index: 14;
+	margin-top: -288px;
+	margin-bottom: -288px;
+	height: 644px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
